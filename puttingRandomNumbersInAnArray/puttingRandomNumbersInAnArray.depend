@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1681470682 source:c:\users\onurb\onedrive\masaüstü\room\okul\c projeler\puttingrandomnumbersinanarray\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
